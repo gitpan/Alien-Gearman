@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Alien-Gearman
-version:            0.01003
-abstract:           Wrapper for installing libgearman v0.11
+version:            0.01004
+abstract:           Wrapper for installing libgearman v0.12
 author:
     - Johannes Plunien <plu@cpan.org>
 license:            unknown
